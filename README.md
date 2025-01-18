@@ -69,4 +69,4 @@ This project is available for non-commercial use. Please contact me at Linkedin 
 
 ---
 
-© 2024 Jeff Jiang. All rights reserved.
+© 2024 Crazy Soft Dev. All rights reserved.
